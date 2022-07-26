@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
   <li><p></p>🔭 I’m currently working on Tenon</li>
   <li><p></p>🌱 I’m currently learning LowCode</li>
   <li><p></p>💼 I'm currently serving Tencent/WXG/RDGZ</li>
-  <li><p></p>🏫 I'm currently attending college at DGUT</li>
+  <li><p></p>🏫 I just graduated from DGUT</li>
   <li><p></p><img src="https://img.shields.io/github/followers/Doctor-wu?style=social"/></li>
   <li><p></p><img src="https://img.shields.io/github/stars/Doctor-wu?style=social"/></li>
 </ul>
