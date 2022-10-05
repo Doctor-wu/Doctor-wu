@@ -39,14 +39,13 @@ Here are some ideas to get you started: -->
   </li>
   <li><img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" /></li>
 
+</ul>
   <p align="right">
     <img
       width="500px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiewxy&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"
     />
   </p>
-</ul>
 <img
-  align="bottom"
   src="https://activity-graph.herokuapp.com/graph?username=Doctor-wu&theme=xcode"
 />
