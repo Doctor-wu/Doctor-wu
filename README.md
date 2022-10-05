@@ -1,4 +1,4 @@
-### Hello There, Welcome Here👋
+### Hello There, Welcome Here👋，u r the <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" />
 
 <!-- **Doctor-wu/Doctor-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
     width="500px"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=Doctor-wu&&theme=tokyonight&show_icons=true&count_private=true"
-  />
+  />Cancel changes
 </p>
 
 <p></p>
@@ -37,8 +37,6 @@ Here are some ideas to get you started: -->
     <p></p>
     <img src="https://img.shields.io/github/stars/Doctor-wu?style=social" />
   </li>
-  <li><img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" /></li>
-
 </ul>
   <p align="right">
     <img
