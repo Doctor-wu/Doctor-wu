@@ -1,4 +1,4 @@
-### Hello There, Welcome Here👋，u r the <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" />
+### Hello There, Welcome Here👋
 
 <!-- **Doctor-wu/Doctor-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -36,6 +36,10 @@ Here are some ideas to get you started: -->
   <li>
     <p></p>
     <img src="https://img.shields.io/github/stars/Doctor-wu?style=social" />
+  </li>
+  <li>
+    <p></p>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" />
   </li>
 </ul>
   <p align="right">
