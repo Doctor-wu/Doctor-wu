@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
     width="500px"
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=Doctor-wu&&theme=tokyonight&show_icons=true&count_private=true"
-  />Cancel changes
+  />
 </p>
 
 <p></p>
