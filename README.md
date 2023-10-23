@@ -23,12 +23,9 @@ Here are some ideas to get you started: -->
   </li>
   <li>
     <p></p>
-    💼 I'm currently serving Tencent/WXG/RDGZ
+    💼 I'm currently serving Moego
   </li>
-  <li>
-    <p></p>
-    🏫 I just graduated from DGUT
-  </li>
+  
   <li>
     <p></p>
     <img src="https://img.shields.io/github/followers/Doctor-wu?style=social" />
