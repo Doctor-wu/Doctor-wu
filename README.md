@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
+<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=I+am+Doctor wu,+welcome+to+my+GitHub"> </a> </h1>
 
 <p align="center">
 <img src="./code.gif" width=480 />
