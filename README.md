@@ -14,7 +14,7 @@
   <a href="https://www.zhihu.com/people/dtwu666"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;  
   <a href="https://juejin.cn/user/1723677080556621"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Doctor-wu" alt="访客统计" />
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDoctor-wu"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDoctor-wu&label=Visitor&labelColor=%23697689&countColor=%2337d67a&style=flat" alt="Visitor Statistic" /></a>
  </div>
 
 :heart: Recommend
