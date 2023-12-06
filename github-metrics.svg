@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            60 issue comments
+                            61 issue comments
                         </div>
                     </section>
                     <section>
@@ -311,6 +311,98 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by nooooooom in <span class="repo">vueuse/vueuse</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>
+                                                Data flow doesn't break if you don't mix using
+                                                <code>useLocalStorage</code>
+                                                and
+                                                <code>localStorage</code>
+                                                .
+                                                <code>localStorage</code>
+                                                's API are synchronized, but reactive system bring the asynchronize, but it's ok cuz it's self-complete. The real flow should be
+                                                <code>mutate</code>
+                                                -&gt;
+                                                <code>useLocalStorage</code>
+                                                -&gt;
+                                                <code>localStorage</code>
+                                                , you are not supposed to kick
+                                                <code>useLocalStorage</code>
+                                                away
+                                            </i>
+                                            <code>useLocalStorage</code>
+                                            监听
+                                            <code>localStorage</code>
+                                            的更新，然后赋值给响应式的数据，这是没问题的，并且有且只有这一种数据流向。当向
+                                            <code>useLocalStorage</code>
+                                            设置值的时候，
+                                            <code>vueuse</code>
+                                            内部的做法是先更新响应式的数据的
+                                            <code>value</code>
+                                            ，再通过监听这个数据的改变将最新的值写入
+                                            <code>localStorage</code>
+                                            ，这个时候问题就出现了，
+                                            <code>watch</code>
+                                            普通使用时它不是一个同步进行的东西，也就是说我每次向
+                                            <code>useLocalStorage</code>
+                                            传值的时候，
+                                            <code>localStorage</code>
+                                            需要在下一个时间点才能得以更新，但是依赖于
+                                            <code>localStorage</code>
+                                            的
+                                            <code>useLocalStorage</code>
+                                            所返回的那个响应式数据却得到更新了，这是不应该的。
+在正常的数据流中，不管在哪个阶段去看
+                                            <code>useLocalStorage</code>
+                                            与
+                                            <code>localStorage</code>
+                                            的值，
+                                            <code>localStorage</code>
+                                            都应该是领先或等同于
+                                            <code>useLocalStorage</code>
+                                            的，但是
+                                            <code>useLocalStorage</code>
+                                            却破坏了这个规则，它基于
+                                            <code>localStorage</code>
+                                            却可能领先于
+                                            <code>localStorage</code>
+                                            。
+上面的图像中有个误区就是
+                                            <code>useLocalStorage</code>
+                                            与
+                                            <code>localStorage</code>
+                                            并不是双向的，
+                                            <code>useLocalStorage</code>
+                                            的值只会来源于
+                                            <code>localStorage</code>
+                                            ，而
+                                            <code>useLocalStorage</code>
+                                            也只是将修改
+                                            <code>localStorage</code>
+                                            的行为封装了起来而已，用户在设置
+                                            <code>useLocalStorage</code>
+                                            的值的时候，实际上是直接对
+                                            <code>localStorage</code>
+                                            进行赋值。
+                                        </i>
+                                        It's not mutate internal
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3620 [useLocalStorage] Synchronize changes in local storage and data value</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by nooooooom in <span class="repo">vueuse/vueuse</span></div>
                                     <div class="comment"></div>
                                 </div>
                             </section>
@@ -404,43 +496,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3620 [useLocalStorage] Synchronize changes in local storage and data value</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by nooooooom in <span class="repo">vueuse/vueuse</span></div>
-                                    <div class="comment">
-                                        That's not the same concept 😂, I understand your
-                                        <code>flow</code>
-                                        , but it's different from what we are talking about. If you are using
-                                        <code>useLocalStorage</code>
-                                        , then you shouldn't get value from
-                                        <code>localStorage</code>
-                                        directly. You get value from
-                                        <code>cache</code>
-                                        , and you set value from
-                                        <code>cache</code>
-                                        , that's a convenient entry with reactivity for you to control
-                                        <code>localStorage</code>
-                                        , that's it.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2023, 19:06:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2023, 20:09:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
