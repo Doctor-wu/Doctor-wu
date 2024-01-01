@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 114kb of code in 147 edited files across 62 commits</small>
+                <small>estimation from 114kb of code in 149 edited files across 63 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.47240132096243" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="419.47240132096243" y="0" width="33.221418462022335" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.69381978298475" y="0" width="7.306180217015255" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.3103222577292" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="420.3103222577292" y="0" width="32.53455511492704" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.8448773726562" y="0" width="7.15512262734378" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>810 lines</div>
-                                <div>23.2 kB</div>
+                                <div>823 lines</div>
+                                <div>23.7 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
