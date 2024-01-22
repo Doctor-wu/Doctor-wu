@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=I'm+Doctorwu,+welcome+here!"> </a> </h1>
+<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=I'm+Doctor+Wu,+welcome+here!"> </a> </h1>
 
 <table>
   <tr width="100%">
