@@ -61,22 +61,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Boarding_Desktop</span>
-                                <div class="bar" style="width: 46.752%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">58%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">vue-core</span>
-                                <div class="bar" style="width: 18.863999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 41.296%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">moego-mobile</span>
-                                <div class="bar" style="width: 14.152000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 25.672%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">vue-core</span>
+                                <div class="bar" style="width: 12.783999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vueuse</span>
-                                <div class="bar" style="width: 0.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -86,17 +86,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 79.368%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CocoaPods</span>
-                                <div class="bar" style="width: 0.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 79.728%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
@@ -106,6 +101,11 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Objective-C++</span>
+                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">XML</span>
                                 <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
