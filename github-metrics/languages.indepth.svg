@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 122kb of code in 175 edited files across 80 commits</small>
+                <small>estimation from 134kb of code in 210 edited files across 88 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.6236385899336" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="419.6236385899336" y="0" width="34.38809048140749" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.0117290713411" y="0" width="5.98827092865889" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.17838765008577" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="424.17838765008577" y="0" width="30.508862206975415" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.6872498570612" y="0" width="5.312750142938822" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>987 lines</div>
-                                <div>28.3 kB</div>
+                                <div>1.08k lines</div>
+                                <div>32.2 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
