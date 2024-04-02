@@ -119,8 +119,6 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- just img -->
-<div align="center"><img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 <table align="center">
   <tr>
     <td width="50%">
@@ -151,4 +149,18 @@
   <img width="49%" src="https://wakatime.com/share/@Doctorwu/d6edd7c9-3a7d-4cf6-94f6-ee662e7af834.svg"></img>
   <img width="49%" src="https://wakatime.com/share/@Doctorwu/875126b2-5030-4c35-b043-a3a1b64d5258.svg"></img>
 </div>
+
+### ❤️ Create for love, consider sponsoring me
+[`Github Sponsor`](https://github.com/sponsors/Doctor-wu)
+
+
+[`爱发电`](https://afdian.net/a/doctorwu)
+
+## Sponsors
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Doctor-wu/static@master/sponsors.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Doctor-wu/static@master/sponsors.svg"/>
+  </a>
+</p>
 
