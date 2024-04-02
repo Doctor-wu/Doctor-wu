@@ -151,10 +151,7 @@
 </div>
 
 ### ❤️ Create for love, consider sponsoring me
-[`Github Sponsor`](https://github.com/sponsors/Doctor-wu)
-
-
-[`爱发电`](https://afdian.net/a/doctorwu)
+[`Github Sponsor`](https://github.com/sponsors/Doctor-wu) / [`爱发电`](https://afdian.net/a/doctorwu)
 
 ## Sponsors
 
