@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1407" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1150" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            200 issue comments
+                            205 issue comments
                         </div>
                     </section>
                     <section>
@@ -311,7 +311,10 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by guaijie in <span class="repo">vuejs/core</span></div>
-                                    <div class="comment">因为在你调用 defineExpose 的时候这个 ref 的值还没有被附上</div>
+                                    <div class="comment">
+                                        <i>defineExpose 追踪依赖变化也是符合直觉的行为</i>
+                                        我赞成你认为他是符合自觉的, 只是目前我认为这个表现确实符合框架的预期, 建议你可以去提一个 RFC 或者是一个 discussion
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -319,51 +322,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">Doctor-wu/core-vapor</span>
+                                        Commented on
+                                        <span class="issue">#10720 defineExpose 无法正确 expose 实例方法</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9e0cd20</div>
-                                        <div class="message">feat(compiler-vapor): support v-on for component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3787a43</div>
-                                        <div class="message">test(compiler-vapor): add props &amp; emits for component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e958118</div>
-                                        <div class="message">fix(compiler-vapor): resolve component &amp; unit tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dce9b61</div>
-                                        <div class="message">refactor(runtime-vapor): extract firstEffect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a49b6f9</div>
-                                        <div class="message">feat(compiler-vapor): support v-on for component (#175)
-
-Co-authored-by: Kevin Deng 三咲智子 &lt;sxzz@sxzz.moe&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdc4322</div>
-                                        <div class="message">refactor(runtime-vapor): export function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0792656</div>
-                                        <div class="message">feat(runtime-vapor): `createSlot` (#170)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0bd0e9</div>
-                                        <div class="message">feat(compiler-vapor): ref for `v-for` (#167)
-
-Co-authored-by: Rizumu Ayaka &lt;rizumu@ayaka.moe&gt;
-Co-authored-by: 三咲智子 Kevin Deng &lt;sxzz@sxzz.moe&gt;</div>
+                                    <div>opened by guaijie in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">
+                                        那不就刚好和你说了不支持响应式吗
+                                        <i>
+                                            <i>文档这里用 ref 是和你说你 expose 出去之后也是具有响应式的, defineExpose 这里的实参是个普通的对象呀</i>
+                                            你可以去看，直接暴露一个 selectRef 是会报警告的。只能传一个 plain object ，我只是跟进它的警告做的修改
+                                        </i>
                                     </div>
                                 </div>
                             </section>
@@ -372,123 +345,16 @@ Co-authored-by: 三咲智子 Kevin Deng &lt;sxzz@sxzz.moe&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">Doctor-wu/core</span>
+                                        Commented on
+                                        <span class="issue">#10720 defineExpose 无法正确 expose 实例方法</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-v-for-memo</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b4b856b</div>
-                                        <div class="message">release: v3.4.22</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f26d566</div>
-                                        <div class="message">chore: improve event value validation message</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9da34d7</div>
-                                        <div class="message">fix(reactivity): computed should not be detected as true by isProxy (#10401)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ba93c</div>
-                                        <div class="message">fix(types): avoid merging object union types when using withDefaults (#10596)
-
-close #10594</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc99e4d</div>
-                                        <div class="message">fix(Transition): ensure the KeepAlive children unmount w/ out-in mode (#10632)
-
-close #10620</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53d15d3</div>
-                                        <div class="message">fix(runtime-core): handle invalid values in callWithAsyncErrorHandling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ccd453</div>
-                                        <div class="message">fix(runtime-dom): sanitize wrongly passed string value as event handler (#8953)
-
-close #8818</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15ffe8f</div>
-                                        <div class="message">fix(runtime-dom): force update v-model number with leading 0 (#10506)
-
-close #10503 
-close #10615</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a96267</div>
-                                        <div class="message">fix(ssr): don't render v-if comments in TransitionGroup (#6732)
-
-close #6715</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec06fd</div>
-                                        <div class="message">fix(hydration): properly handle optimized mode during hydrate node (#10638)
-
-close #10607</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cef65c</div>
-                                        <div class="message">fix(compiler-sfc): fix defineModel coercion for boolean + string union types (#9603)
-
-close #9587 
-close #10676</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67722ba</div>
-                                        <div class="message">fix(runtime-dom): fix css v-bind for suspensed components (#8523)
-
-close #8520</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54a6afa</div>
-                                        <div class="message">fix(compiler-sfc): fix universal selector scope (#10551)
-
-close #10548</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d58d133</div>
-                                        <div class="message">fix(compat): fix $options mutation + adjust private API initialization
-
-close #10626
-close #10636</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04af950</div>
-                                        <div class="message">fix(compiler-core): fix v-bind shorthand for component :is
-
-close #10469
-close #10471</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#969c5fb</div>
-                                        <div class="message">fix(reactivity): fix hasOwnProperty key coercion edge cases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5919d4</div>
-                                        <div class="message">fix(compile-sfc): analyze v-bind shorthand usage in template (#10518)
-
-close #10515</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b4b8ec</div>
-                                        <div class="message">chore: add download badge (#8550) [ci skip]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b11dab9</div>
-                                        <div class="message">chore: more descriptive eslint error messages for restricted syntax</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ae908d</div>
-                                        <div class="message">chore(types): perform strict es2016 lib check when building dts</div>
-                                    </div>
+                                    <div>opened by guaijie in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">文档这里用 ref 是和你说你 expose 出去之后也是具有响应式的, defineExpose 这里的实参是个普通的对象呀</div>
                                 </div>
                             </section>
                         </div>
@@ -496,35 +362,33 @@ close #10515</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">fix-universal-selector</span>
-                                        in
-                                        <span class="repo">Doctor-wu/core</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">Doctor-wu/core</span>
+                                        Commented on
+                                        <span class="issue">#10720 defineExpose 无法正确 expose 实例方法</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-universal-selector</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7fd2fcf</div>
-                                        <div class="message">Merge branch 'main' into fix-universal-selector</div>
+                                    <div>opened by guaijie in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">我只是和你解释一下为什么没有响应式, 没有响应式就是现在预期的表现, 如果有提案的话可以去 rfc 的仓库提交, 因为一般 issue 是用来上报不符合 (框架) 预期的问题的。</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10720 defineExpose 无法正确 expose 实例方法</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by guaijie in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">现在还不支持这样的行为, 文档也没有说可以吧, 因为本质上 defineExpose 只是被编译成了 __expose。</div>
                                 </div>
                             </section>
                         </div>
@@ -533,7 +397,7 @@ close #10515</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2024, 15:07:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2024, 16:07:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
