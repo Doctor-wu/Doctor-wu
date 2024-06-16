@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Just call me Doctor · @vueuse member · Open source enthusiast · @MoeGolibrary  · pre @Tencent · Dangerous Coder</div>
+                        <div class="introduction">Just call me Doctor · @vuejs  &amp; @vueuse member · Open source enthusiast · @MoeGolibrary  · pre @Tencent · Dangerous Coder</div>
                     </section>
                 </div>
             </section>
@@ -509,7 +509,7 @@ close #5541</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2024, 13:07:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2024, 14:07:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
