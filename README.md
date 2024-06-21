@@ -157,7 +157,7 @@
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Doctor-wu/static@master/sponsors.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Doctor-wu/static@master/sponsors.png"/>
+    <img src="https://cdn.jsdelivr.net/gh/Doctor-wu/static@master/sponsors.png?cache=1"/>
   </a>
 </p>
 
