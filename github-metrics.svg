@@ -305,6 +305,156 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 150 commits in
+                                        <span class="repo">Doctor-wu/core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix-v-for-memo</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8bf1469</div>
+                                        <div class="message">ci: fix RCE vulnerability in file overwrite (#10985)
+
+Special thanks to @RedYetiDev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efd090b</div>
+                                        <div class="message">test: update coverage exclude (#10915)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc1139a</div>
+                                        <div class="message">chore(deps): update build (#10981)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90cbcfe</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#10980)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd18ce7</div>
+                                        <div class="message">fix: correct the type of `&lt;details&gt;`'s `onToggle` event handler (#10938)
+
+Fixes #10928</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fead52</div>
+                                        <div class="message">fix(compiler-core): change v-for key type to match Object.keys (#10963)
+
+close #8819</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b40d0f</div>
+                                        <div class="message">fix(shared): ensure invokeArrayFns handles undefined arguments (#10869)
+
+Co-authored-by: Haoqun Jiang &lt;haoqunjiang@gmail.com&gt;
+
+Close #10863</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a8d548</div>
+                                        <div class="message">docs: set propper highlighting for commit convention regex (#10949) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#107e614</div>
+                                        <div class="message">chore(deps): update dependency esbuild to ^0.21.2 (#10925)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f8cd66</div>
+                                        <div class="message">chore(deps): update lint (#10926)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cef876</div>
+                                        <div class="message">fix(deps): update compiler to ^7.24.5 (#10924)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cb3db6</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#10923)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2b5f57</div>
+                                        <div class="message">fix(compile-sfc): register props destructure rest id as setup bindings (#10888)
+
+close #10885</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4619461</div>
+                                        <div class="message">release: v3.4.27</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10d34a5</div>
+                                        <div class="message">fix(compiler-sfc): handle keyof operator (#10874)
+
+close #10871</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8366126</div>
+                                        <div class="message">fix(compat): include legacy scoped slots (#10868)
+
+close #8869</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2c1412</div>
+                                        <div class="message">fix(hydration): handle edge case of style mismatch without style attribute
+
+ref #10786</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#481b1b6</div>
+                                        <div class="message">refactor(types): use explicit modifiers type (#10856)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8373350</div>
+                                        <div class="message">chore(deps): update build (#10867)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bead21a</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#10866)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">vuejs/core-vapor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix-slots-level</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd661d</div>
+                                        <div class="message">Merge branch 'main' into fix-slots-level</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">vuejs/core-vapor</span>
                                     </div>
@@ -355,151 +505,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">vuejs/core-vapor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-slots-level</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a38175e</div>
-                                        <div class="message">feat(runtime-vapor): fix slots level</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">vuejs/core-vapor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-slots-level</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3169c91</div>
-                                        <div class="message">fix(hydration): skip prop mismatch check for directives that mutate DOM in created
-
-close #11189</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ad67ce</div>
-                                        <div class="message">fix(hydration): fix css vars hydration mismatch false positive on attr-fallthrough (#11190)
-
-close #11188</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20b6594</div>
-                                        <div class="message">revert: test(runtime-vapor): add misc test
-
-This reverts commit 63dbc26f3464db7b2db103f891ad42a738b6c5b5.
-https://github.com/vuejs/core-vapor/pull/246</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80ba50d</div>
-                                        <div class="message">refactor(built-ins): remove unused code from Teleport and Suspense components (#11139)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e102670</div>
-                                        <div class="message">fix(compiler-core): should not remove slot node with `v-else` (#11150)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#914f064</div>
-                                        <div class="message">refactor(compat/compiler-core): improve conditional branching (#11185)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2e35d6</div>
-                                        <div class="message">fix(runtime-dom): ensure only symbols are explicitly stringified during attribute patching (#11182)
-
-close #11177</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7936dae</div>
-                                        <div class="message">perf(reactivity): cache tracking value (#11145)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c4d7f5</div>
-                                        <div class="message">chore: remove dead links (#11173) [ci skip]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#220fe24</div>
-                                        <div class="message">fix(runtime-core): ensure unmount dynamic components in optimized mode (#11171)
-
-close #11168</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ae4c29</div>
-                                        <div class="message">fix(runtime-dom): prevent setting state as attribute for custom elements (#11165)
-
-close #11163</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bd79e3</div>
-                                        <div class="message">fix(reactivity): fix side effect computed dirty level (#11183)
-
-close #11181, #11169</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63dbc26</div>
-                                        <div class="message">test(runtime-vapor): add misc test (#246)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dadb363</div>
-                                        <div class="message">build: use swc minify for prod builds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c3327a</div>
-                                        <div class="message">ci: use node-version-file for autofix and canary workflows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97f45f3</div>
-                                        <div class="message">chore(deps): update dependency vite to ^5.3.1 (#11153)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a382b7</div>
-                                        <div class="message">chore: fix typo [skip ci] (#11154)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3568ab2</div>
-                                        <div class="message">chore(deps): update lint (#11156)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9f646a</div>
-                                        <div class="message">chore(deps): update test (#11157)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98a0b42</div>
-                                        <div class="message">chore(deps): update all non-major dependencies (#11152)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2024, 20:10:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 21:08:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
