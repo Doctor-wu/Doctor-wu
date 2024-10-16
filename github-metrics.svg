@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1122" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1635" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 310 users
+                            Followed by 311 users
                         </div>
                     </section>
                     <section>
@@ -222,10 +222,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    310 followers
+                    311 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYFAAj/xAAuEAACAQIDBwMCBwAAAAAAAAABAgMEBQAGEQcSEyExQWEUIlEygRUWJUJxkeH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/8QAHBEBAAIDAAMAAAAAAAAAAAAAAQACAxESBCEx/9oADAMBAAIRAxEAPwBf2h5jmy5Z4GoVjevqphTw8T6FJBJc+AAcQFe17amirvzLWw1mvJjKEiJ+OH0+2LzaJYp77ZoPQ6etpJhPFr35EEf0T9wMDXp53qjBcq/ipD71jBILnUggP25acunXGXNZE9zZ49ao7NsbdnuYJ8wWDi3BUS4U0hhqAvQuOjjwRocUwODDIOZsvWb9IqKmGhraqTixwsNAQeQ94GnUHvhM1xfG9G5C5xdJAbW83SZWy1I1BVRQ3SYhIQy75A7vuY85xZxuK1XqLgiV7yMZOJI3DJJPM6jzja2rVc9Xni8LUSF1jkaNAf2qo5AYhpJSRvMqMwXkSow2hf7EXaOybF9rVuMdHc5lP4jLKySLEDuIg+gc+/8AuEWxbUr5abXBRRBJkiGgaYF2HjXTB1aqp57LWQuFEbOjgAabhDKvt+NRI2v8D4xzytA3DjACjxgpXg0Qtbp2z//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEzUlEQVR4nO2Ua2xTZRjHu962WXADtnZ1Y0OJEQe6MRHdxsY9KuoCBhAmEWRchss2RMUhKJCxBpDgxtauPb3f1ut6P+3a9d6OXQgGlUgw2QySSOI34hcTNH9zDjjCJ8rwiwlP8k+evDl5f7/nOSeHwXhS94rNZpXmPz2rRVA4T1Es5PuKi/heQcFced7sWQfYbFYJ47+qLAYjp4hfQFQuefHOq1UVeO2VSixfthRUv/SlcixZ9DxeWLjgDn/eHCIri5H72MCCOXnS50qLUSwowHwhH2XFAjpUT50JC+fSKX1GgIK5+drHgjGZWfNLigr/2vdONRLiw5jQdMHbcxSKE22QH2+Fp/tLXNKJEO87jKYNr6OspAhMZlbZjIG52dyP1i1fjERPO64OiPArKcOtiA6/J0x0qP4GKcVVYxfi3W2oW7oIOdmc7TMGPpWb/Xnr5tX0ZRRwyiPGzSElbkX0NOzmkAJTbjF+NHYh1t2KfQ0rkJvN/fhxJjz41Y51sJzYjc79myFqaURa2YlJtxiT7j4k5SfR1bIdp5o3w3ayCR3b1iCHy9k5Y2AOl/Nh74G3oT+2C0lJB3xnW+ESNeOS6jgmlF/D2bUf/nNtSEg66GfO730T2VzO1hnBeDmc/PfqK83K9o0gz7Wj92gzDm5ZBfepvbisPkFDnZ17cKb9Axzb3QDymzYQrQ3YWFdhyOWyeI8MXPKsYNmpXW9A2tqAy45+NL67ElvXL0fK1IerpjP4wSBCwixBbcUCdOzfhglLD6htnG56C6X8/IpHBuZw2DzpJ1v+7Ny5HmnxZ5j0yXAjpMGkqxfXzKfxk/k0/RFNBVT4hSSQ7D2EY9tXQ/7p+3+wmVncR4LxeLzZzQdavvBqJTfl50UYc+twPRXA5HgE1xJefB+y4UrQhuspElPjUfycDmDcowdxXgSPVjK5d1/zITaHw8kYWF6+uJoMhBEIRjEUiiE0HEdoOInhcBLhSAqRaBrR2Ahi8YuIJS4inhylk6CSGkU0nkaRUJj5/7W0tOxlp4uExzsELxmEzx8CGRiGfyiCoWAUwRAlkLgrEUkhHE0jEhtBNH5XghLLy88vzBjI5wvKzFYH7A4PBp1eOFw+uNx+uL0BeHyURAikfxj+QPieROy+RDgJMhD+m8vlsjIG8nizZmt1JhhNdpjMg6DgFpsTNrublnB5/AiGYg9I+MjgtITV7r7NYmXOY7DZbBah0EKtHQAF1hnM0BstMAxYMWC2I31xAqPj38Fqc01LDDp9cLhIWkKp0v2WOY3BYJSUlCySSBUg5BrIlTooVHqo1AaoNUZotANwOEl6rQajFUaTjZYwWQbpLVjtLqjU+ttCoXBhRjAWi8XW6XTX+6VKSPoVkEiV6JepICXUtAA1uUKpg5KS0Big1hqh0Zmg1ZuhN1BbsMFidYAgiCtMJpP5UGBVVdWGkZERGtbTK8WFPhl6xTL0SeQQS+T0OS0gU0EmvyshpyX0UKoNUGmMMJntSKVSKC8vr38osKmpqXtsbAz9MiW+7ZFMp/tCP3qoTEsQ6BMT0xLUJmgJQg3jgAWjo6NobGwUZTLh2k2bNu2oX7mqubqm9kh19Yr7qXkwNf+mto5O7Qoq9UfWrF23h7qjsrKyLqP3+KT+V/UPFsdCQZ4uSs4AAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAYDBAcJ/8QALxAAAQMDAgQCCgMAAAAAAAAAAQIDBAAFEQYhBxIiMRNhFBUjMjNBUVOBsXGhwv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABsRAQACAwEBAAAAAAAAAAAAAAEAAgMRIRIi/9oADAMBAAIRAxEAPwA9Jbq94dRZUuHMjOOyfU5cSXmWXfDDjmDyc+O+N9v5qDQ4AasdEa7jafs91tr0UurmvMrD+fghsnJA+ZINFxTkcaFhYr+CTUmNpJ2NKkOusNSiIocVzeG1yIPID3ODz10PAoo2fjudMy/QocVq52vpcHUW1IJyVAE58u475pLaU1FC1Hp6Fd7epYjS0c6Qr3gc4IPmCCPxVXfg3G+vbqedklzD6xjG+Nqz6hsr9imNMSFtuF1oPpKfoc9/PatW49M5/H3D+6o+J6iq9wVE7qgtZ/upfoIB8rJyD1OhtQHtCBn6b96dXBe1sWTQseEwuQ+hDzigpR7ZOdvL5/mg7YkhV3hBQyPGT+xTl4UrI0sAPu/4RWMlk5N4qj2f/9k=" width="28" height="28" alt="" />
@@ -249,7 +250,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACkQAAEDAwMCBQUAAAAAAAAAAAECAxEABAUGEiETMSJBUWGBBxRC0dL/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAQID/8QAHBEAAwABBQAAAAAAAAAAAAAAAAECIQMEERJB/9oADAMBAAIRAxEAPwDXclkLTLNgPtobWPySBNIbvHFo9Rk70e/FY/a621GcW3cnGs9KIFySQhZA5jnnsaoGPqbdsYYPXeMtUbkylSrgoCjz28JieIk+dJWtPgXo2WnTW4Rv8+wmjm2ilACngk+grO8vndUpbDrGIErAI6W96Pjipm61hqtt5SVsPoI8vs1fuq1upRKli/FY5XQAug2hqd6WUzCOPcye9EZoB6xcaPKI4EUQ4sgUBeDcgzNGG8DXRmqb1LS7a9KA3bBttiBEJCAIPyDVy3qVKkAqHPtWOY5xba7hIUSIC+fXn+RTRq6eCB4zWs1gPc5P/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABQYHBAAB/8QAKhAAAgIBAwIEBwEBAAAAAAAAAQIDBBEABSESQQYTIjEUJFFhcYGRQqH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxExISJB/9oADAMBAAIRAxEAPwC+77uztLPBXnStXgB82bIDM2M+XHnv9T98DnJUPHWqTMWs7dGckFGtkPMV79eeoj8k/rXVFMu2bdYcsepfimDKChlIz15+zSE/zSrfsmwZrFmW80L2pqcMNKz0iMDpy5bp9TMecHtjg6oCbKqndyiHMjbRsPSlUVfkZMFliZw1aYZxhcHGef8AIB74Ptpw266t6qs0WUOSrowyUYe4Op7tbzzR36ticS2aVpgtjhmLrh0kI4wcHoP71l8Wb1c2TdfJoWGgWWMSuJAFZm5XJH4UfzREK2dyh8kfYctVHpzfCgJ51TraEOxAlrkEdA++ML+VB7jQ2Tb47Fueepeu0bMg+YVX8pycegyIRjgcEj31QtzoQbhGqWFOVPUjqcMh+qntqZ+IPEV/Y94ehXMUyIRJ5kyessPYnpwP+aIqw7HUOE9m+pWrx01p0lK7euZJZZSwRk6gWVXIyxJ5LnjGjNfw7U3iMXNziYluIQ/UCI+2e/JyeeedeeD4V3vba2438uzkv5A4iU9fvj3PPq9RPPOnXSks7Unvsemf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABAYHBQID/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFERIhMRNRYQYUMoEjoUJSkf/EABoBAAEFAQAAAAAAAAAAAAAAAAABAgQFBgf/xAAhEQABAwMFAQEAAAAAAAAAAAABAAIDBAUhBhIxQWHR4f/aAAwDAQACEQMRAD8AuT7BaV1GfiN8dq9EN+7/ADJcbjobbDji3TuE74OO2x3JFCWF1E+eYnWOpsqLzWngJOB9E4I7iubx6ziWW6G3XS337qr2Q/Ht7slpeOMFKSnfxv3xXMLBpxlQDNVZHA99+KxmqCMNK1JUN6I4qQ/hbQHyR/HyR2oJS33TqbSdB4pqhuKfjJccSpOoZCVJKSB5B4NLUxEmPKdaZIDSDhGccYz+uPqm37TjYdstIOcEHpEM5OHI/wBPtJZmSAFZJbTn/TW9mphcrnLtzSJER0oc6qUnsoeao8R1TrDS1Y1KAzitbZIjFQRgnr9UeY7nkojip3dYUpVxfUsyw2VEtNtL1htP9ST5yccAEAbAU+vrUE7GkaXKd94+dW5cUD9HSP0BRd5nRRAAZJSxNByV/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgUHCAT/xAArEAABBAAEBQMEAwAAAAAAAAABAgMEBQAGERIHEzFBYSFRcRQykaEVIoH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAbEQEAAgMBAQAAAAAAAAAAAAABAAIDESEiMf/aAAwDAQACEQMRAD8AnGKOvZQ082l1x9Ktdq+njtgo7e22acyNUtEFoQ47ykqSSAdOqyfYDU/GE9jIlprHZMJLhY5RKdwG8nsBp50wm4L11fEqKZ4Ma2MqJJmF7sAt1CSNPhCPwffE/nZY9SocwuZiyfeyIsh2Ql2MQvmtqJQpJ+1fwfPf0w+yxxYivVDZtkJTLSopXt6K84sLiLDr5cOUzNihx2TXSUc7X1QlsBwfhQBGMtRco5rsmUy4GX5UiO56pdP9AvyB7YQlzsSTRuW4TTtVHCwCCnHLwat6+HTqy5LkR0XtQ+/FS06QlbjZc3DYT1B1HT2GJDK6z/AxFemvLwazFlSpt72RLmMEuJjJk6JVoFOJVtBPfoB37DBTZqHE9jXPtwxCyddLsvp49gK+TyGuYC4QW9NR410/WM8VnEbNz1dFTSvGBEYZbjpbixt4VsQE7lKPVRAH+aYsVmEzcTYtfP3ORX1pS6jX7069D49BibVAjUS1V9Ww1HiNEhDaUAAfrBK7JopmphsjXc//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -302,35 +302,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">Doctor-wu/native-signals</span>
+                                        Commented on
+                                        <span class="issue">#10431 fix(vMemo): prevent unexpected render in v-for + v-memo</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54436ab</div>
-                                        <div class="message">fix(effect): re-fix should trigger inner effects in sequence</div>
+                                    <div>opened by Doctor-wu in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">/ecosystem-ci run</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10431 fix(vMemo): prevent unexpected render in v-for + v-memo</span>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e452c6</div>
-                                        <div class="message">fix(effectScope): re-fix should not trigger inner effects after stop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26b1330</div>
-                                        <div class="message">perf: revert fixes that caused performance regressions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3132c71</div>
-                                        <div class="message">refactor(computed): remove unneeded import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#712c1c5</div>
-                                        <div class="message">refactor: remove notifyLostSubs hook</div>
-                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Doctor-wu in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">I also added corresponding test case</div>
                                 </div>
                             </section>
                         </div>
@@ -341,23 +339,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Doctor-wu/native-signals</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Doctor-wu/core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">fix-v-for-memo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#459c78e</div>
-                                        <div class="message">fix(computed): resubscribing should not force a recalculation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae22cc4</div>
-                                        <div class="message">fix(effect): should not trigger not dirty inner effects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6a0b4b</div>
-                                        <div class="message">refactor(effectScope): remove unneeded condition</div>
+                                        <div class="sha">#e74929c</div>
+                                        <div class="message">test(runtime-core): add test case for use v-memo on v-for elements</div>
                                     </div>
                                 </div>
                             </section>
@@ -369,39 +359,117 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Doctor-wu/native-signals</span>
+                                        Pushed 510 commits in
+                                        <span class="repo">Doctor-wu/core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">fix-v-for-memo</span></div>
                                     <div class="commit">
-                                        <div class="sha">#349bf97</div>
-                                        <div class="message">0.0.4</div>
+                                        <div class="sha">#d2dac0e</div>
+                                        <div class="message">feat(compiler-sfc): enable reactive props destructure by default
+
+Also allow prohibiting usage via config.
+RFC: https://github.com/vuejs/rfcs/discussions/502</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4a3016f</div>
-                                        <div class="message">chore: rename lib to alien-signals</div>
+                                        <div class="sha">#75c8cf6</div>
+                                        <div class="message">feat(types): provide internal options for directly using user types in language tools (#10801)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dd65559</div>
-                                        <div class="message">fix(computed): unable to update value after losing all subscribers</div>
+                                        <div class="sha">#4cc9ca8</div>
+                                        <div class="message">types(defineComponent): support for GlobalComponents, typed Directives and respect `expose` on defineComponent (#3399)
+
+close #3367</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c53b897</div>
-                                        <div class="message">fix(effectScope): should trigger inner effects in sequence</div>
+                                        <div class="sha">#0e6e3c7</div>
+                                        <div class="message">feat(transition): support directly nesting Teleport inside Transition (#6548)
+
+close #5836</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6c6e867</div>
-                                        <div class="message">fix(effect): should trigger inner effects in sequence</div>
+                                        <div class="sha">#0c3a920</div>
+                                        <div class="message">chore: Merge branch 'main' into minor</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d398dfd</div>
-                                        <div class="message">fix(effect): redo should not trigger inner effect when resolve maybe dirty</div>
+                                        <div class="sha">#28841fe</div>
+                                        <div class="message">fix(reactivity): fix call sequence of ontrigger in effect (#10501)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#34684ab</div>
-                                        <div class="message">docs: update readme</div>
+                                        <div class="sha">#85f3592</div>
+                                        <div class="message">refactor: should throw errors in computed getters</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fd1284</div>
+                                        <div class="message">chore: Merge branch 'main' into minor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a084df1</div>
+                                        <div class="message">dx(compiler-dom): warn on invalid html nesting (#10734)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f0c6e4</div>
+                                        <div class="message">chore: Merge branch 'main' into minor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb5c31e</div>
+                                        <div class="message">chore: Merge branch 'main' into minor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a936aa</div>
+                                        <div class="message">feat(reactivity): add failSilently argument for onScopeDispose</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef2eaef</div>
+                                        <div class="message">refactor: inline recordEffectScope</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cc5615</div>
+                                        <div class="message">feat(reactivity): `onEffectCleanup` API
+
+ref #10173
+
+Instead of exposing `getCurrentEffect`, this version accepts a second
+argument to suppress the no-active-effect warning.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70196a4</div>
+                                        <div class="message">perf(reactivity): optimize array tracking (#9511)
+
+close #4318</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72bde94</div>
+                                        <div class="message">types: fix ComputedRefImpl type build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d30366</div>
+                                        <div class="message">chore(types): fix ComputedRefImpl type build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55660b0</div>
+                                        <div class="message">refactor(scheduler): use bitwise flags for scheduler jobs + optimize queueJob (#10407)
+
+related: https://github.com/vuejs/core-vapor/pull/138</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58d827c</div>
+                                        <div class="message">chore: Merge branch 'main' into minor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05eb4e0</div>
+                                        <div class="message">Refactor reactivity system to use version counting and doubly-linked list tracking (#10397)
+
+Bug fixes
+close #10236
+close #10069
+
+PRs made stale by this one
+close #10290
+close #10354
+close #10189
+close #9480</div>
                                     </div>
                                 </div>
                             </section>
@@ -410,26 +478,112 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Forked
-                                        <span class="repo">stackblitz/native-signals</span>
-                                        to
-                                        <span class="repo">Doctor-wu/native-signals</span>
+                                        Pushed 82 commits in
+                                        <span class="repo">Doctor-wu/core</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">stackblitz/bolt.new</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7a00f6f</div>
+                                        <div class="message">chore: remove unused argument (#12006)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d9e81d</div>
+                                        <div class="message">chore(types): disambiguate the `Comment` type in hydration.ts (#12009)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a177092</div>
+                                        <div class="message">fix(runtime-core): make useId() always return a string</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e88985</div>
+                                        <div class="message">release: v3.5.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0267a58</div>
+                                        <div class="message">fix(reactivity): do not remove dep from depsMap when cleaning up deps of computed (#11995)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1764a1</div>
+                                        <div class="message">test: simplify computed last sub test case</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fcb801</div>
+                                        <div class="message">release: v3.5.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#960706e</div>
+                                        <div class="message">fix(reactivity): do not remove dep from depsMap when unsubbed by computed
+
+follow up of 235ea4772 after discovering regression in vant ecosystem-ci tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b030c8b</div>
+                                        <div class="message">fix(reactivity): fix triggerRef call on ObjectRefImpl returned by toRef (#11986)
+
+close #11982</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eca65e</div>
+                                        <div class="message">fix(types): correct type inference of all-optional props (#11644)
+
+fix #11733
+fix vuejs/language-tools#4704</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#235ea47</div>
+                                        <div class="message">fix(reactivity): fix memory leak from dep instances of garbage collected objects
+
+close #11979
+close #11971</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c8b76e</div>
+                                        <div class="message">fix(reactivity): fix dev-only memory leak by updating dep.subsHead on sub removal
+
+ref #11956</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f927a4a</div>
+                                        <div class="message">fix(transition): respect `duration` setting even when it is `0` (#11967)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2f6ede</div>
+                                        <div class="message">fix(ssr): don't render comments in TransitionGroup (#11961)
+
+close #11958</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6224288</div>
+                                        <div class="message">fix(compile-core): fix v-model with newlines edge case (#11960)
+
+close #8306</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#902bd9c</div>
+                                        <div class="message">chore(sfc-playground): resolve autosave conflict issue (#11970)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#215e154</div>
+                                        <div class="message">fix(compiler-sfc): initialize scope with null prototype object (#11963)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d18d6aa</div>
+                                        <div class="message">fix(scheduler): ensure recursive jobs can't be queued twice (#11955)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7257e6a</div>
+                                        <div class="message">fix(hydration): avoid observing non-Element node (#11954)
+
+close #11952</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e075dfa</div>
+                                        <div class="message">perf(hydration): avoid observer if element is in viewport (#11639)</div>
                                     </div>
                                 </div>
                             </section>
@@ -439,7 +593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2024, 19:06:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2024, 20:11:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
