@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#142 feat(services): enhance DaycareServiceForm to match Figma design ENT-314</span>
+                                        <span class="issue">#150 feat(services): align BoardingBundleServiceAndAddonListForm conditional logic ENT-314</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by devin-ai-integration[bot] in <span class="repo">MoeGolibrary/moego-enterprise-web-v1</span></div>
-                                    <div>6 files changed <span class="code">++150 --42</span></div>
+                                    <div>2 files changed <span class="code">++112 --61</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#141 refactor: separate useCreateOrEditServiceAction by service type ENT-314</span>
+                                        <span class="issue">#149 feat(services): align BoardingBundleServiceSelector with tab-based selection ENT-314</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by devin-ai-integration[bot] in <span class="repo">MoeGolibrary/moego-enterprise-web-v1</span></div>
-                                    <div>6 files changed <span class="code">++287 --129</span></div>
+                                    <div>2 files changed <span class="code">++98 --63</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#139 feat(services): enhance BoardingServiceForm to match Figma design ENT-314</span>
+                                        <span class="issue">#147 feat(services): refactor DefaultServices to align with BundleService interactions ENT-314</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by devin-ai-integration[bot] in <span class="repo">MoeGolibrary/moego-enterprise-web-v1</span></div>
-                                    <div>8 files changed <span class="code">++260 --3</span></div>
+                                    <div>8 files changed <span class="code">++416 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#138 feat(services): refactor service forms by type ENT-314</span>
+                                        <span class="issue">#148 feat: align Lodging form with multi-select and select-all functionality ENT-314</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by devin-ai-integration[bot] in <span class="repo">MoeGolibrary/moego-enterprise-web-v1</span></div>
-                                    <div>20 files changed <span class="code">++949 --450</span></div>
+                                    <div>3 files changed <span class="code">++79 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,7 +91,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#138 feat(services): refactor service forms by type ENT-314</span>
+                                        <span class="issue">#148 feat: align Lodging form with multi-select and select-all functionality ENT-314</span>
                                     </div>
                                 </div>
                                 <div class="details">
