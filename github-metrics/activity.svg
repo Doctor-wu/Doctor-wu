@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#363 feat: strip schema ENT-438</span>
+                                        <span class="issue">#529 feat: replace author ENT-0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">MoeGolibrary/moego-bff</span></div>
-                                    <div>18 files changed <span class="code">++138 --126</span></div>
+                                    <div> in <span class="repo">MoeGolibrary/moego-e2e-autotest</span></div>
+                                    <div>18 files changed <span class="code">++54 --54</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#363 feat: strip schema ENT-438</span>
+                                        <span class="issue">#529 feat: replace author ENT-0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">MoeGolibrary/moego-bff</span></div>
-                                    <div>17 files changed <span class="code">++135 --126</span></div>
+                                    <div> in <span class="repo">MoeGolibrary/moego-e2e-autotest</span></div>
+                                    <div>18 files changed <span class="code">++54 --54</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feature-strip-schema</span>
+                                        <span class="code">feature-replace-author</span>
                                         in
-                                        <span class="repo">MoeGolibrary/moego-bff</span>
+                                        <span class="repo">MoeGolibrary/moego-e2e-autotest</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#361 fix: mis generate enum path ENT-436</span>
+                                        <span class="issue">#366 feat: schema support negative bigint ENT-441</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">MoeGolibrary/moego-bff</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>623 files changed <span class="code">++7349 --7349</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#361 fix: mis generate enum path ENT-436</span>
+                                        <span class="issue">#366 feat: schema support negative bigint ENT-441</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">MoeGolibrary/moego-bff</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>623 files changed <span class="code">++7349 --7349</span></div>
                                 </div>
                             </section>
                         </div>
